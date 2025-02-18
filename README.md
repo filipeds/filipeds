@@ -5,11 +5,6 @@ I'm a developer with experience in the Salesforce platform, working with Apex, L
 
 Besides the Salesforce ecosystem, I also have knowledge of other languages and technologies.
 
-## 🛠  Skills
-`In Salesforce Context:` Apex, Flow, Community, Visualforce, Aura Components, LWC, Einstein Bot, Omni-Channel, Outbound Message, Agentforce, SOQL, SOSL.
-
-`Others Skills:` Java, JavaScript, HTML, CSS, MySQL, Python.
-
 ## Languages ​​and Technologies
 <img
     align="left"
