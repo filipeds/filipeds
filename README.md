@@ -9,3 +9,8 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
 - HTML & CSS
 - MySQL
 - Python
+
+## 🛠  Skills
+`In Salesforce Context:` Apex, Flow, Community, Visualforce, Aura Components, LWC, Einstein Bot, Omni-Channel, Outbound Message, Agentforce, SOQL, SOSL.
+
+`Others Skills:` Java, JavaScript, HTML, CSS, MySQL, Python.
