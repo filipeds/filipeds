@@ -14,3 +14,71 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
 `In Salesforce Context:` Apex, Flow, Community, Visualforce, Aura Components, LWC, Einstein Bot, Omni-Channel, Outbound Message, Agentforce, SOQL, SOSL.
 
 `Others Skills:` Java, JavaScript, HTML, CSS, MySQL, Python.
+
+## Languages ​​and Technologies
+<img
+    align="left"
+    alt="Salesforce"
+    title="Salesforce"
+    width="40px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Js"
+    title="Js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Html"
+    title="Html" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Css"
+    title="Css" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="MySql"
+    title="MySql" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>  
+          
+<br/>
+<br/>
