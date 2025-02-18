@@ -4,7 +4,13 @@
 I'm a developer with experience in the Salesforce platform, working with Apex, LWC, Aura, Flow, and various solutions for Experience Cloud, Service Cloud, and Sales Cloud.
 
 Besides the Salesforce ecosystem, I also have knowledge of other languages and technologies.
-
+<a href="www.linkedin.com/in/filipezanin">
+        <img 
+            alt="LinkedIn" 
+            title="Vamos conectar" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>  
 ## Languages ​​and Technologies
 <img
     align="left"
