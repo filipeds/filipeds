@@ -78,7 +78,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     <img 
         alt="GitHub Stats" 
         height="170" 
-        src="https://github-readme-stats.vercel.app/api?username=filipeds&theme=algolia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" 
+        src="https://github-readme-stats.vercel.app/api?username=filipeds&theme=algolia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" 
     />
     <img 
         alt="GitHub Streak" 
