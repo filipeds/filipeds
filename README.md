@@ -10,7 +10,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     align="left"
     alt="Salesforce"
     title="Salesforce"
-    width="40px"
+    width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
 />
@@ -19,7 +19,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -29,7 +29,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     align="left" 
     alt="Python"
     title="Python" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -38,7 +38,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     align="left" 
     alt="Js"
     title="Js" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
 />
@@ -47,7 +47,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     align="left" 
     alt="Html"
     title="Html" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -56,7 +56,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     align="left" 
     alt="Css"
     title="Css" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -65,7 +65,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     align="left" 
     alt="MySql"
     title="MySql" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />  
@@ -78,7 +78,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     <img 
         alt="GitHub Stats" 
         height="170" 
-        src="https://github-readme-stats.vercel.app/api?username=filipeds&theme=algolia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+        src="https://github-readme-stats.vercel.app/api?username=filipeds&theme=algolia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true" 
     />
     <img 
         alt="GitHub Streak" 
