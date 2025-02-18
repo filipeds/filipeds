@@ -9,7 +9,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
 <a href="https://www.linkedin.com/in/filipezanin" target="_blank">
     <img 
         alt="LinkedIn" 
-        width="50px" 
+        width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     />
 </a>          
