@@ -10,10 +10,10 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     <img 
         alt="GitHub Stats" 
         width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
     />
 </a>
-          
+
 ## Languages ​​and Technologies
 <img
     align="left"
