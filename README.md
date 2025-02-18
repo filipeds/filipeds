@@ -78,6 +78,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />  
+
 <img 
     align="left" 
     alt="Linux"
