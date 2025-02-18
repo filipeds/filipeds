@@ -5,13 +5,9 @@ I'm a developer with experience in the Salesforce platform, working with Apex, L
 
 Besides the Salesforce ecosystem, I also have knowledge of other languages and technologies.
 <br/>
-<a href="www.linkedin.com/in/filipezanin">
-        <img 
-            alt="LinkedIn" 
-            title="Vamos conectar" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-</a>  
+<br/>
+<img href="www.linkedin.com/in/filipezanin" title="Vamos conectar" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
 ## Languages ​​and Technologies
 <img
     align="left"
