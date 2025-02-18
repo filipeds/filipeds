@@ -80,10 +80,9 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
         height="170" 
         src="https://github-readme-stats.vercel.app/api?username=filipeds&theme=algolia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" 
     />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=filipeds&theme=algolia&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="[https://github-readme-streak-stats.herokuapp.com/?user=filipeds&theme=algolia&hide_border=true](https://streak-stats.demolab.com?user=filipeds&theme=algolia&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)" 
+        src="https://streak-stats.demolab.com?user=filipeds&theme=algolia&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" 
     />
 </div>
