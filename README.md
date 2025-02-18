@@ -6,7 +6,7 @@ I'm a developer with experience in the Salesforce platform, working with Apex, L
 Besides the Salesforce ecosystem, I also have knowledge of other languages and technologies.
 <br/>
 <br/>
-<a href="www.linkedin.com/in/filipezanin" target="_blank">
+<a href="https://www.linkedin.com/in/filipezanin" target="_blank">
     <img 
         alt="GitHub Stats" 
         width="30px" 
