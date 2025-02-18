@@ -106,5 +106,5 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipeds)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filipeds&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
