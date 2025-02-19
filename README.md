@@ -102,7 +102,7 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=filipeds&theme=algolia&hide_border=true&mode=weekly&hide_longest_streak=true" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=filipeds&theme=algolia&hide_border=true&mode=weekly&hide_longest_streak=true&card_width=300" 
     />
     <img
         alt="GitHub Langs"
