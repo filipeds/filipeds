@@ -1,4 +1,4 @@
-# Hi, I'm Filipe! 👋🏻
+# Hi, I'm Filipe! 🧑🏻‍💻👋🏻
 ## About me
 
 I'm a developer with experience in the Salesforce platform, working with Apex, LWC, Aura, Flow, and various solutions for Experience Cloud, Service Cloud, and Sales Cloud.
