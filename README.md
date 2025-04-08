@@ -105,5 +105,5 @@ Besides the Salesforce ecosystem, I also have knowledge of other languages and t
     <img
         alt="GitHub Langs"
         height="170"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeds&hide_progress=true&theme=algolia&hide_border=true&layout=normal&hide_progress=true&langs_count=8">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeds&hide_progress=true&theme=algolia&hide_border=true&layout=normal&hide_progress=true&langs_count=8&card_width=400">
 </div>
