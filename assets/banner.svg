@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 172" width="880" height="172" role="img" aria-label="Banner do perfil de Filipe. Sobre um fundo quase preto, manchas de cor indigo, verde-agua e azul flutuam devagar e se misturam onde se sobrepoem. Sobre elas: o nome Filipe; a linha Desenvolvedor Salesforce e Engenharia de Software (cursando); a stack em etiquetas — Apex, LWC, Aura, SOQL, Flow, Node e TypeScript; e tres dados alinhados a direita — mais de cinco anos escrevendo software, Platform Foundations certificado, e zero servicos de terceiros.">
+  <defs>
+    <radialGradient id="m0"><stop offset="0" stop-color="#5865F2" stop-opacity="0.850"/><stop offset=".40" stop-color="#5865F2" stop-opacity="0.663"/><stop offset=".68" stop-color="#5865F2" stop-opacity="0.357"/><stop offset=".85" stop-color="#5865F2" stop-opacity="0.119"/><stop offset="1" stop-color="#5865F2" stop-opacity="0"/></radialGradient>
+    <radialGradient id="m1"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.620"/><stop offset=".40" stop-color="#2DD4BF" stop-opacity="0.484"/><stop offset=".68" stop-color="#2DD4BF" stop-opacity="0.260"/><stop offset=".85" stop-color="#2DD4BF" stop-opacity="0.087"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="m2"><stop offset="0" stop-color="#2E8FE6" stop-opacity="0.780"/><stop offset=".40" stop-color="#2E8FE6" stop-opacity="0.608"/><stop offset=".68" stop-color="#2E8FE6" stop-opacity="0.328"/><stop offset=".85" stop-color="#2E8FE6" stop-opacity="0.109"/><stop offset="1" stop-color="#2E8FE6" stop-opacity="0"/></radialGradient>
+    <clipPath id="corte"><rect width="880" height="172" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#corte)">
+    <rect width="880" height="172" fill="#0D1117"/>
+    <g transform="translate(0,0)">
+      <g transform="translate(255.0,200.0)"><g><animateTransform attributeName="transform" type="translate" additive="replace" dur="17s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" values="0.0 0; 234.8 62; 398.1 -38; 153.1 84; 0.0 0"/><animateTransform attributeName="transform" type="scale" additive="sum" dur="17s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" values="1.00; 1.18; 0.92; 1.12; 1.00"/><circle cx="0" cy="0" r="264.0" fill="url(#m0)"/></g></g>
+      <g transform="translate(607.5,420.0)"><g><animateTransform attributeName="transform" type="translate" additive="replace" dur="23s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" values="0.0 0; -294.6 -74; -133.1 96; -351.6 26; 0.0 0"/><animateTransform attributeName="transform" type="scale" additive="sum" dur="23s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" values="1.00; 1.22; 0.90; 1.08; 1.00"/><circle cx="0" cy="0" r="254.0" fill="url(#m1)"/></g></g>
+      <g transform="translate(413.6,750.0)"><g><animateTransform attributeName="transform" type="translate" additive="replace" dur="29s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" values="0.0 0; 197.5 -92; -127.8 -46; 69.7 -120; 0.0 0"/><animateTransform attributeName="transform" type="scale" additive="sum" dur="29s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.25;0.5;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" values="1.00; 0.94; 1.20; 1.04; 1.00"/><circle cx="0" cy="0" r="294.0" fill="url(#m2)"/></g></g>
+      </g>
+    <text x="24.0" y="32.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="1.6">GITHUB.COM/FILIPEDS</text>
+    <text x="22.0" y="75.0" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="34" fill="#E6EDF3" letter-spacing="-0.5" font-weight="600">Filipe</text>
+    <text x="24.0" y="106.0" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">Desenvolvedor Salesforce · Engenharia de Software (cursando)</text>
+    <rect x="24.0" y="127" width="42.4" height="20" rx="4" fill="#FFFFFF" fill-opacity=".05"/>
+    <text x="32.0" y="141.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="0.4">Apex</text>
+    <rect x="72.4" y="127" width="35.8" height="20" rx="4" fill="#FFFFFF" fill-opacity=".05"/>
+    <text x="80.4" y="141.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="0.4">LWC</text>
+    <rect x="114.2" y="127" width="42.4" height="20" rx="4" fill="#FFFFFF" fill-opacity=".05"/>
+    <text x="122.2" y="141.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="0.4">Aura</text>
+    <rect x="162.6" y="127" width="42.4" height="20" rx="4" fill="#FFFFFF" fill-opacity=".05"/>
+    <text x="170.6" y="141.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="0.4">SOQL</text>
+    <rect x="211.0" y="127" width="42.4" height="20" rx="4" fill="#FFFFFF" fill-opacity=".05"/>
+    <text x="219.0" y="141.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="0.4">Flow</text>
+    <rect x="259.4" y="127" width="42.4" height="20" rx="4" fill="#FFFFFF" fill-opacity=".05"/>
+    <text x="267.4" y="141.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="0.4">Node</text>
+    <rect x="307.8" y="127" width="82.0" height="20" rx="4" fill="#FFFFFF" fill-opacity=".05"/>
+    <text x="315.8" y="141.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#8B949E" letter-spacing="0.4">TypeScript</text>
+    <text x="856.0" y="100.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#8B949E" text-anchor="end"><tspan fill="#E6EDF3">5+</tspan> anos escrevendo software</text>
+    <text x="856.0" y="121.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#8B949E" text-anchor="end">Platform Foundations, <tspan fill="#E6EDF3">certificado</tspan></text>
+    <text x="856.0" y="142.0" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#8B949E" text-anchor="end">Serviços de terceiros: <tspan fill="#E6EDF3">0</tspan></text>
+    
+  </g>
+</svg>
