@@ -86,9 +86,7 @@
 
     <line x1="40" y1="820" x2="840" y2="820" stroke="#1a2029"/>
 
-    <text x="40" y="850" font-family='Consolas, "SF Mono", Menlo, "DejaVu Sans Mono", monospace' font-size="12.5" fill="#5fb8b0" text-decoration="underline">LinkedIn ↗</text>
-    <text x="140" y="850" font-family='Consolas, "SF Mono", Menlo, "DejaVu Sans Mono", monospace' font-size="12.5" fill="#5fb8b0" text-decoration="underline">Trailhead ↗</text>
-    <text x="840" y="850" font-family='Consolas, "SF Mono", Menlo, "DejaVu Sans Mono", monospace' font-size="12" fill="#4b5468" text-anchor="end"><tspan font-weight="700" fill="#9aa2b8">Platform Foundations</tspan> — Salesforce Certified, verificável no Trailhead</text>
+    <text x="40" y="850" font-family='Consolas, "SF Mono", Menlo, "DejaVu Sans Mono", monospace' font-size="12" fill="#4b5468"><tspan font-weight="700" fill="#9aa2b8">Platform Foundations</tspan> — Salesforce Certified, verificável no Trailhead</text>
 
     <path d="M14 28V14h14" fill="none" stroke="#2a3346" stroke-width="1.2"/>
     <path d="M866 28V14h-14" fill="none" stroke="#2a3346" stroke-width="1.2"/>
