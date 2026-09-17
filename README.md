@@ -14,10 +14,4 @@
 
 </details>
 
-[<img src="assets/badge-linkedin.svg" height="20" alt="Perfil no LinkedIn">](https://www.linkedin.com/in/filipezanin)
-&nbsp;
-[<img src="assets/badge-trailhead.svg" height="20" alt="Perfil no Trailhead">](https://www.salesforce.com/trailblazer/fmoraeszanin)
-&nbsp;
-<img src="assets/badge-experiencia.svg" height="20" alt="Experiência: mais de 5 anos">
-
 </div>
